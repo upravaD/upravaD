@@ -77,8 +77,6 @@
          src="https://raw.githubusercontent.com/YuriiSalimov/JavaRush/master/javarush_logo.png"><a/>
 <a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
          src="https://github.com/upravaD/upravaD/assets/105938670/ce7d07df-35af-4686-b238-f2e10cf6be8b"><a/>
-<a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
-         src="https://github.com/upravaD/upravaD/assets/105938670/d6b2eb5d-f44e-4332-884e-276019d74577"><a/>   
 <br/>   
 
 
