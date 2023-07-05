@@ -74,9 +74,11 @@
 <a href="https://psuti.ru/ru/f2"><img height="35" title="Поволжский Государственный Университет Телекоммуникаций и Информатики. Факультет №2."
          src="https://upload.wikimedia.org/wikipedia/commons/5/55/Main-psuti-logo.png"><a/>
 <a href="https://javarush.com/university"><img height="35" title="JavaRush University. Профессия Java-разработчик."
-         src="https://raw.githubusercontent.com/YuriiSalimov/JavaRush/master/javarush_logo.png"><a/>   
-<!-- <a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
-         src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"><a/>   -->
+         src="https://raw.githubusercontent.com/YuriiSalimov/JavaRush/master/javarush_logo.png"><a/>
+<a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
+         src="https://github.com/upravaD/upravaD/assets/105938670/ce7d07df-35af-4686-b238-f2e10cf6be8b"><a/>
+<a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
+         src="https://github.com/upravaD/upravaD/assets/105938670/d6b2eb5d-f44e-4332-884e-276019d74577"><a/>   
 <br/>   
 
 
