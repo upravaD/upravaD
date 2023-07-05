@@ -8,15 +8,15 @@
    
      <img 
          height="35" 
-         title="Java" 
+         title="Java JDK 18" 
          src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
      <img 
          height="35" 
-         title="Spring" 
+         title="Spring 6.0" 
          src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg">
      <img 
          height="35" 
-         title="Apache Maven" 
+         title="Apache Maven 3.8.6" 
          src="https://user-images.githubusercontent.com/43886029/158700377-62b0da69-81a2-4340-8ce6-dec718533aee.svg">
      <img 
          height="35" 
@@ -27,11 +27,11 @@
    
      <img 
          height="35" 
-         title="PostgreSQL" 
+         title="PostgreSQL 10.6" 
          src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg">
      <img 
          height="35" 
-         title="MySQL" 
+         title="MySQL 8.0" 
          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
      <img 
          height="35" 
@@ -42,7 +42,7 @@
 
      <img 
          height="35" 
-         title="Apache Tomcat" 
+         title="Apache Tomcat 9" 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png">
      <img 
          height="35" 
@@ -50,21 +50,25 @@
          src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png">
      <img 
          height="35" 
-         title="HTML" 
+         title="HTML5" 
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+     <img 
+         height="35" 
+         title="CSS3" 
+         src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg">
  - Soft
 
      <img 
          height="35" 
-         title="Git" 
+         title="Git 2.33.0" 
          src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
      <img 
          height="35" 
-         title="IntelliJ IDEA" 
+         title="IntelliJ IDEA Ultimate 2023" 
          src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg">
      <img 
          height="35" 
-         title="Docker" 
+         title="Docker 24.0.2" 
          src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4">   
          
 
