@@ -76,8 +76,11 @@
 <a href="https://javarush.com/university"><img height="35" title="JavaRush University. Профессия Java-разработчик."
          src="https://raw.githubusercontent.com/YuriiSalimov/JavaRush/master/javarush_logo.png"><a/>
 <a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
-         src="https://github.com/upravaD/upravaD/assets/105938670/ce7d07df-35af-4686-b238-f2e10cf6be8b"><a/>
+         src="https://github.com/upravaD/upravaD/assets/105938670/776de2a5-d88e-40ed-8993-a1eca6102e09"><a/>
+<!-- <a href="https://swiftbook.org"><img height="35" title="SwiftBook University. Профессия Java-разработчик."
+         src="https://github.com/upravaD/upravaD/assets/105938670/ce7d07df-35af-4686-b238-f2e10cf6be8b"><a/> -->
 <br/>   
+
 
 
 ## :fire: My Stats :
