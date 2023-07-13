@@ -71,7 +71,7 @@
          title="Docker 24.0.2" 
          src="https://avatars.githubusercontent.com/u/7739233?s=280&v=4">   
          
-
+<br>   
 
 ## 💻 Education : 
 
@@ -112,10 +112,10 @@
 
 ## 🤝🏻 Connect with Me :
 
-<p align="left">
-    <a href="https://t.me/upravaD">
+ <p align="left">
+   <!-- <a href="https://t.me/upravaD">
         <img src="https://img.shields.io/badge/-@upravaD-1877F2?style=flat&logo=Telegram&logoColor=white"/>
-    </a>
+    </a> -->
     <a href="mailto:daktah@icloud.com">
         <img src="https://img.shields.io/badge/-daktah@icloud.com-D14836?style=flat&logo=Apple&logoColor=white&color=black"/>
     </a>
